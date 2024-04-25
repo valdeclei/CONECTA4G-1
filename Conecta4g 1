@@ -1,8 +1,8 @@
 {
-    "Version": "74",
-    "ReleaseNotes": "Atualizar agora pra ter melhorias, versão 73✅️",
+    "Version": "75",
+    "ReleaseNotes": "Atualizar agora pra ter melhorias, versão 75✅️",
     "Sms": "",
-    "UrlUpdate": "https://bitbin.it/qMvC49CF/raw/",
+    "UrlUpdate": "https://github.com/valdeclei/CONECTA4G-1.git",
     "EmailFeedback": "",
     "UrlContato": "",
     "UrlTermos": "",
@@ -169,7 +169,7 @@ HTTP/1.1[lf][lf]",
             "Info": "Proxy"
         },
         {
-            "Name": "CLARO FLEX 🔴",
+            "Name": "CLARO FLEX 1 🔴",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "dns.web.whatsapp.com",
