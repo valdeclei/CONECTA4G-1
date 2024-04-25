@@ -1,0 +1,252 @@
+{
+    "Version": "73",
+    "ReleaseNotes": "Atualizar agora pra ter melhorias, versão 73✅️",
+    "Sms": "",
+    "UrlUpdate": "https://bitbin.it/qMvC49CF/raw/",
+    "EmailFeedback": "",
+    "UrlContato": "",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "Udp": [
+        {
+            "Porta": "7300"
+        }
+    ],
+    "Servers": [
+        {
+            "Name": "SERVIDOR DEDICADO 🔰",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "venomssh1.online",
+            "CheckUser": "http://venom.dr1.info/checkuser/conecta4g.php",
+            "ServerPort": "22",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        }
+    ],
+    "Networks": [
+        {
+            "Name": "VIVO 1 🟣 [servidor 1]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL navegue.vivo.ddivulga.com/pacote 
+HTTP/1.1[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO 2 🟣 [servidor 1]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO 3 🟣 [servidor 1]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO 4 🟣 [servidor 1]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][crlf] SEARCH HTTP/1.1[crlf]Host: www.google.com.br[crlf]Connection: keep-alive[crlf]Referer: http://www.google.com.br[crlf][crlf]\n",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO 5 🟣 [servidor 1]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: meuplano.tim.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO ws 6 🟪 [servidor 2]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL navegue.vivo.ddivulga.com/pacote 
+HTTP/1.1[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "204.216.141.4",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO ws 7 🟪 [servidor 2]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][crlf] SEARCH HTTP/1.1[crlf]Host: www.google.com.br[crlf]Connection: keep-alive[crlf]Referer: http://www.google.com.br[crlf][crlf]\n",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "204.216.141.4",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO ws 8 🟪 [servidor 2]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "204.216.141.4",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO ws 9🟪 [servidor 2]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "204.216.141.4",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO ws 10🟪 [servidor 2]",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][lf]ACL / HTTP/1.1[crlf]Host: meuplano.tim.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "204.216.141.4",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "Tim Expirado 1 🚫",
+            "FLAG": "tim",
+            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "Tim Expirado 2 🚫",
+            "FLAG": "tim",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "Tim Expirado 3 🚫",
+            "FLAG": "tim",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "Tim Expirado 4🚫",
+            "FLAG": "tim",
+            "Payload": "HTTP/ 1[lf]Host: aspmx.l.google.com.469.it;mailservice.avlcompany.com;mail.tieronesearch.com[crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "164.152.196.181",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "CLARO FLEX 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "dns.web.whatsapp.com",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 2 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "m.waze.com",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 3 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "musicaclaro.com.br",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 4 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "m.twitter.com",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 5 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "web.whatsapp.com",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 6 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "c.whatsapp.net",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 7 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "media.whatsapp.net",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "CLARO PLANOS 8 🔴",
+            "FLAG": "claro",
+            "Payload": "",
+            "SNI": "whatsapp.com",
+            "TlsIP": "164.152.196.181",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Ssl"
+        }
+    ]
+}
